@@ -50,6 +50,7 @@ The objective of this project is to showcase API testing skills including reques
 
 * ✔ API request chaining implemented
 * ✔ Dynamic data handling using environment variables
+* ✔ Token is dynamically generated from Login API and stored in environment variable.
 * ✔ Test scripts written using JavaScript
 * ✔ Organized Postman collection structure
 * ✔ Coverage of both positive and negative scenarios
