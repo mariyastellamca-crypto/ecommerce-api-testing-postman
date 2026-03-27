@@ -2,9 +2,11 @@
 
 ## 📌 Project Overview
 
-This project demonstrates API testing of an e-commerce application using Postman. The APIs are based on the Fake Store API and cover core functionalities such as user authentication, product retrieval, and cart operations.
+This project demonstrates an end-to-end API testing approach for an e-commerce system, including validation, request chaining, and real-world test scenarios.
 
-The objective of this project is to showcase API testing skills including request creation, validation, chaining, and handling both positive and negative scenarios.
+The APIs are based on the Fake Store API and cover core functionalities such as user authentication, product retrieval, and cart operations.
+
+The objective of this project is to showcase API testing skills including request creation, validation, dynamic data handling, and execution of both positive and negative test scenarios.
 
 ---
 
@@ -83,6 +85,12 @@ pm.test("Response contains product title", function () {
 2. Import the Environment file
 3. Select the environment in Postman
 4. Run the collection using Collection Runner
+
+---
+
+## ▶️ Execution via CLI
+
+Can be executed using Newman for automation
 
 ---
 
